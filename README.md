@@ -27,7 +27,6 @@ This web application is an approach to connect farmers and bio-waste industries 
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/aku1310/article-preview-component-master)
 - Working Model Video: [Google Drive](https://drive.google.com/file/d/1d82kZHsU2dq2smIKFHGDxAoM0J_m5hOO/view)
 
 ## Process
@@ -51,22 +50,14 @@ This is a full stack application where we learned and implemented various techno
 
 ## Contributors
 
-**Akanksha Kushwaha**
-- GitHub - [@aku1310](https://github.com/aku1310)
-- LinkedIn - [Akanksha Kushwaha](https://www.linkedin.com/in/akankshakushwaha/)
+**Naveenkumar B**
+- GitHub - [@naveenkumarbaraker](https://github.com/naveenkumarbaraker)
 
-**Aparna Singh**
-- GitHub - [@Whizz76](https://github.com/Whizz76)
-- LinkedIn - [Aparna Singh](https://www.linkedin.com/in/aparna-singh-bb07a7224)
+**Trupti Venkatesh**
+- GitHub - [@](https://github.com/)
 
-**Khushi Jain**
-- GitHun - [@khushijain6](https://github.com/khushijain6)
-- LinkedIn - [Khushi Jain](https://www.linkedin.com/in/khushi-jain-1a46961bb/)
+**Tejas N**
+- GitHun - [@](https://github.com/)
 
-**Srishti Mishra**
-- GitHub - [@srishti51](https://github.com/srishti51)
-- LinkedIn - [Srishti Mishra](https://www.linkedin.com/in/srishti-mishra-316ab3235/)
-
-**Ritika Malik**
-- GitHub - [@ritika728](https://github.com/ritika728)
-- LinkedIn - [Ritika Malik](https://www.linkedin.com/in/ritika-malik-must/)
+**Aditi Khyadad**
+- GitHub - [@](https://github.com/)
