@@ -1,63 +1,97 @@
-# Farmer Friendly Web App
+# Farmer Friendly Web App 🌾
 
-This is a Web Application made by the Web Development team as part of Interestship 4.0.
+This is a Web Application developed by the Web Development team as part of Interestship 4.0, aiming to connect farmers and bio-waste industries for better management of farm waste.
 
-## Table of contents
+## 📜 Table of Contents
 
 - [Overview](#overview)
   - [Introduction](#introduction)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Tech stack](#tech-stack)
-  - [What we learned](#what-we-learned)
-- [Contributors](#contributors)
+  - [Screenshots](#screenshots)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
 
-## Overview
+
+
+## 🌟 Overview
 
 ### Introduction
+The Farmer Friendly Web App is designed to facilitate efficient management of agricultural waste by connecting farmers directly with bio-waste industries. This platform enhances the sustainability and profitability of agricultural practices by promoting better waste management solutions.
 
-This web application is an approach to connect farmers and bio-waste industries together for the better management of the farm-waste produced.
+### Screenshots
+#### 🏡 Home Page
+![Landing Page](./screenshots/landing-page.PNG.png)
 
-### Screenshot
+####  👤 User Registration/Login 
+![User](./screenshots/register.png)
 
-
-![Landing Page](./screenshots/landing-page.PNG)
+####  📊 Dashboard
 ![Dashboard](./screenshots/dashboard.PNG)
 
-### Links
 
-- Working Model Video: [Google Drive](https://drive.google.com/file/d/1d82kZHsU2dq2smIKFHGDxAoM0J_m5hOO/view)
 
-## Process
+## 📜 Features
+- **🔐 User Authentication**: Secure registration and login for users.
+- **📋 Dashboard**: Personalized dashboard for farmers and industry users.
+- **♻️ Waste Management**: Farmers can list farm waste products, and industries can browse available waste.
+  
 
-### Tech stack
+## 🛠️ Tech Stack
 
 **Frontend**
-- React.js, Material UI, CSS
+- **React.js**: Used for building the user interface.
+- **Material UI**: For designing responsive and visually appealing components.
+- **CSS**: Custom styling for various components.
 
 **Backend**
-- Spring Boot, MySQL
+- **Spring Boot**: Framework for building the backend services.
+- **MySQL**: Relational database management system for storing user and product data.
 
-### What we learned
+**Tools**
+- **Postman**: For testing and documenting APIs.
+- **Axios**: For making HTTP requests from the frontend to the backend.
 
-This is a full stack application where we learned and implemented various technologies such as:
+## Installation
 
-- **React.js** : Set up React App, using react-router-dom for redirection of pages, axios for integration of backend, etc.
-- **Spring Boot** : Set up using Spring Initialzr, making various API's, using Authentication, integrating with frontend, etc.
-- **MySQL** : Set up MySQL, making queries to the database, etc.
-- **Postman** : Set up Postman, testing the API's made in Spring Boot.
+### Prerequisites
+- Node.js
+- Java
+- Spring Boot
+- MySQL
 
-## Contributors
+### Steps
 
-**Naveenkumar B**
-- GitHub - [@naveenkumarbaraker](https://github.com/naveenkumarbaraker)
+1. **🔄 Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/farmer-friendly-web-app.git
+   cd farmer-friendly-web-app
+   ```
 
-**Trupti Venkatesh**
-- GitHub - [@](https://github.com/)
+2. **📦 Install frontend dependencies:**
 
-**Tejas N**
-- GitHun - [@](https://github.com/)
+```sh
+Copy code
+cd client
+npm install
+```
 
-**Aditi Khyadad**
-- GitHub - [@](https://github.com/)
+3. **🗄️ Set up MySQL database:**
+
+- Create a database named farmer_friendly.
+- Update the database configurations in application.properties.
+
+4. **🔧 Run the backend server:**
+
+```sh
+Copy code
+cd server
+./mvnw spring-boot:run
+```
+
+5. **💻 Start the frontend:**
+
+```sh
+Copy code
+cd client
+npm start
+```
